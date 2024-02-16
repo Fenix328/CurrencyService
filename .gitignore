@@ -1,0 +1,7 @@
+.vs/
+CurrencyService/obj/
+CurrencyService/appsettings.Development.json
+CurrencyService.Tests.Unit/bin/
+CurrencyService.Tests.Unit/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+CurrencyService.Tests.Unit/obj/
+CurrencyService/bin/
